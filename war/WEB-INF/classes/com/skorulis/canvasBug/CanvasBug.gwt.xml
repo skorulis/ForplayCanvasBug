@@ -1,0 +1,12 @@
+
+<module rename-to='CanvasBug'>
+  <inherits name='forplay.ForPlay'/>
+
+  <source path='core'/>
+  <source path='html'/>
+  
+
+  <public path="resources" />
+
+  <entry-point class='com.skorulis.canvasBug.html.CanvasBugGameHtml'/>
+</module>
